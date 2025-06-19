@@ -67,6 +67,14 @@
     <h2>Latest Videos</h2>
     <p>Check out my most recent YouTube uploads:</p>
     <!-- Embed YouTube videos here -->
+    <div style="text-align: center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/iJUWt4FwCro?si=vfPbcBAL1hzT-o9m"
+      title="YouTube video player" frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe>
+  </div>
+</section>
   </section>
 
   <section class="section" id="blog">
